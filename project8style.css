@@ -5,17 +5,17 @@ h1{
 color:Green;
 }
 #header{
-border-style: solid;
+border-style:solid;
 background-color:yellow;
 }
 .body{
-border-style: dotted;
-border-color: blue;
-text-align: center;  
+border-style:dotted;
+border-color:blue;
+text-align:center;  
 }
 #line2{
 color:red;
 }
 #line3{
-color: blue;
+color:blue;
 }
