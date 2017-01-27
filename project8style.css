@@ -1,3 +1,6 @@
+*{
+font-family:"Vernada"
+} 
 h1{
 color:Green;
 }
@@ -7,7 +10,8 @@ background-color:yellow;
 }
 .body{
 border-style: dotted;
-border=color: blue;
+border-color: blue;
+text-align: center;  
 }
 #line2{
 color:red;
