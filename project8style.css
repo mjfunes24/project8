@@ -4,8 +4,11 @@ font-family:"Vernada"
 h1{
 color:Green;
 }
+table{
+border:1px;
+} 
 #header{
-border:solid,black;
+border: solid,black;
 }
 .body{
 border:dotted, blue;
