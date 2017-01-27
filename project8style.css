@@ -1,7 +1,17 @@
 h1{
 color:Green;
 }
-th{
+#header{
 border-style:solid;
 background-color:yellow;
+}
+.body{
+border-style:dotted;
+border=color: blue;
+}
+#line2{
+color:red;
+}
+#line3{
+color: blue;
 }
