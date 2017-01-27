@@ -5,12 +5,10 @@ h1{
 color:Green;
 }
 #header{
-border-style:solid;
-background-color:yellow;
+border:solid,black;
 }
 .body{
-border-style:dotted;
-border-color:blue;
+border:dotted, blue;
 text-align:center;  
 }
 #line2{
