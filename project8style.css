@@ -6,6 +6,7 @@ color:Green;
 }
 #header{
 border: solid,black;
+background-color: yellow;  
 }
 .body{
 border:dotted, blue;
