@@ -5,11 +5,11 @@ h1{
 color:Green;
 }
 #header{
-border: solid,black;
+border:1px solid black;
 background-color: yellow;  
 }
 .body{
-border:dotted, blue;
+border:1px dotted blue;
 text-align:center;  
 }
 #line2{
