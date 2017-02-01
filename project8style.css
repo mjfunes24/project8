@@ -1,0 +1,31 @@
+h1{
+color: green;
+}
+.header{
+background-color: yellow;
+border:2px solid black;
+}
+#line2{
+color: red;
+}
+#line3{
+color: blue;
+}
+.body{
+border: 2px dashed blue;
+}
+table{
+font-family:"Verdana";
+text-align:center;
+width: 650px;
+border-collapse:collapse;
+}
+#line4{
+}
+th, td{
+width:20%;
+padding:3px;
+}
+
+
+
