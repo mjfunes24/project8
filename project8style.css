@@ -6,10 +6,10 @@ text-align: center;
 background-color: yellow;
 border:2px solid black;
 }
-#line2{
+.line2{
 color: red;
 }
-#line3{
+.line3{
 color: blue;
 }
 .body{
@@ -26,7 +26,7 @@ margin:auto;
 }
 th, td{
 width:20%;
-padding: 5px 3px 5px 3px;
+padding: 5px 3px
 }
 
 
